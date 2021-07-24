@@ -5,7 +5,7 @@ You have to clear Obstacles and reach the end.
 
 
 Start Page :
-![alt text](https://github.com/pra23par/Glider-Unity/blob/main/start.jpg?raw=true)
+![alt text](http://url/to/img.png)
 
 
 Game (Android) :
